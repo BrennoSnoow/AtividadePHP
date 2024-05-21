@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ler números</title>
+    <title>Ler númerosbr</title>
 </head>
 <body>
     
@@ -18,7 +18,7 @@
             $resultado = $soma - 5;
         }
 
-        echo "<h1> O resultado do cálculo é $resultado</h1>";
+        echo "<h1> resultado é $resultado</h1>";
 
     ?>
 
